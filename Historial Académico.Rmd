@@ -1,0 +1,78 @@
+---
+title: "Historial Académico"
+author: "Rosario Morales"
+date: "4 de febrero de 2017"
+output: html_document
+---
+
+
+
+### Otoño 2014
+
+Programación Actuarial I ..........................5 
+
+Introducción a la Profesión Actuarial ..........5
+
+DHPC...................................................9
+
+Conceptos de Cálculo .............................6
+
+Matemáticas Básicas ..............................5
+
+Problemas de Matemáticas Básicas ...........5
+
+### Primavera 2015
+
+Teoría del Interés I ................................. 7
+
+Microeconomía ...................................... 8
+
+DHTIC .................................................10
+
+Matemáticas Básicas ...............................7
+
+Problemas de Matemáticas Básicas ........... 7
+
+### Otoño 2015
+
+Programación Actuarial I .......................... 5
+
+Teoría del Interés II ..................................9
+
+Introducción a a Profesión Actuarial ........... 8
+
+Macroeconomía ..................................... 7
+
+Cálculo Diferencial ................................. 9
+
+Teoría de Ecuaciones ............................ 10
+
+### Primavera 2016
+
+Programación Actuarial I ........................... 8
+
+Contabilidad General ............................... 9
+
+Sistema Financiero Mexicano ................... 10
+
+Registro Académico y Cient. del Esp. .......... 9
+
+Cálculo Integral ....................................... 8
+
+Álgebra Lineal I ....................................... 5
+
+### Otoño 2016
+
+Programación Actuarial II ........................... 8
+
+Cálculo Diferencial en Var. Variables .............8
+
+Intr. a las Estr. Algebraicas ......................... 5
+
+Probabilidad I .......................................... 8
+
+Álgebra Lineal I .........................................5
+
+
+.
+
